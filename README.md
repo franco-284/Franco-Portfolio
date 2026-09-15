@@ -1,2 +1,2 @@
 # Franco-Portfolio
-MI portfolio perosnal.
+Mi portfolio perosnal.
